@@ -1,0 +1,39 @@
+body{
+	background-image: url(image1.jpg);
+	background-size: cover;
+}
+
+h1{
+
+	color: white;
+}
+
+h6{
+	color: white;
+}
+
+.doc{
+	
+	color: white;
+	background-color:rgba(180, 121, 121,0.2);
+}
+
+img{
+	margin: 20px;
+	float: left;
+}
+
+span{
+	font-style: bold;
+	font-style: italic;
+	color: white;
+}
+
+.webtext{
+	color: white;
+}
+
+div{
+	text-align: right;
+	color: white;
+}

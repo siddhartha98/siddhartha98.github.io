@@ -1,0 +1,24 @@
+body{
+	background-image: url(image3.jpg);
+	background-size: cover;
+}
+
+.text{
+	margin:50px;
+	margin-left: 160px;
+	font-weight: bold;
+}
+
+.dec{
+	text-decoration: underline;
+	margin:50px;
+	margin-left: 160px;
+	font-weight: bold;
+}
+
+img{
+	float: right;
+	margin-top:60px;
+	margin-right: 60px;
+}
+
